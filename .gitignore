@@ -1,0 +1,11 @@
+# macOS / Editoren
+.DS_Store
+*~
+
+# nicht fürs Repo gedacht
+release.sh
+dev.local.conf
+Valet-Installation.code-workspace
+
+# Lokale Doku/Notizen
+PROJEKT/

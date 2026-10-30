@@ -1,0 +1,8 @@
+# Lokale Zugangsdaten für dev.sh
+# Kopieren nach dev.local.conf (wird nicht ins Repo übernommen) und anpassen.
+
+# Natives MySQL (Homebrew)
+MYSQL_PASS=""
+
+# MAMP PRO MySQL (nur für den Export alter Projekt-DBs)
+MAMP_PASS="root"
